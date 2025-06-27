@@ -1,34 +1,72 @@
-## Hi, I’m Mohamed Abohatap 👋
+# 👋 Hi, I’m Mohamed Abo-Hatap (Blackdukee)
 
-I build and maintain web apps using Django, Node.js (Express), and SQL.
+📍 Cairo, Egypt  
+✉️ fareselwasal@gmail.com  | [LinkedIn · M.Abohatab](https://www.linkedin.com/in/mohamed-fares-369014224/)
 
-**Tech I use**  
-<div display="flex">
-  <img src="https://img.shields.io/badge/Python-3C3C3D?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</div>
+---
 
-### 🔭 Current work
-- Building APIs and dashboards for freelance clients.
-- Improving CI/CD pipelines and database performance.
+## 🚀 About Me
+I’m a **Junior Node.js Backend Developer** passionate about building scalable, production-ready services. With hands-on experience in RESTful APIs, microservices, and payment integration, I deliver robust backend solutions for e-learning platforms and beyond.
 
-### 🌱 Learning now
-<div display="flex">
-  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
-</div>
+- 🎯 Focus areas: API design, security (JWT, CORS, CSP), microservices  
+- ⚙️ DevOps: Docker & Docker Compose, HTTPS/SSL  
+- 📈 Agile workflows & unit/integration testing (Jest, Supertest)
 
-### 🤔 Looking for help with
-- Integrating AI/ML models into Django or Node.js apps.
+---
 
-### 📫 Contact
-- Portfolio: https://blackdukee.github.io/portfolio  
-- LinkedIn: [mohamed-fares-369014224](https://www.linkedin.com/in/mohamed-fares-369014224/)  
-- Email: fareselwasal@gmail.com
+## 🛠️ Skills
 
-### ⚡ Fun fact
-I’m not a cat person.
+**Languages & Frameworks**  
+- JavaScript (ES6+), SQL  
+- Node.js, Express.js  
+
+**Databases & Caching**  
+- PostgreSQL, MongoDB, Redis  
+
+**Payment & Integrations**  
+- Stripe API, Webhook processing  
+
+**Security & Testing**  
+- JWT, input validation, CORS, CSP  
+- Jest, Supertest  
+
+**DevOps & Documentation**  
+- Docker, Docker Compose  
+- Swagger / OpenAPI  
+
+**Architecture & Patterns**  
+- Microservices, RESTful APIs, MVC  
+
+---
+
+## 🔥 Featured Projects
+
+### 1. E-Learning Payment Service  
+A production-ready microservice for handling secure transactions, revenue management, and financial reporting in an e-learning ecosystem.  
+🔗 https://github.com/Blackdukee/E-learning-payment
+
+### 2. Administration Service  
+A RESTful API built with Node.js & Express.js to manage users, transactions, and statistics for an admin platform.  
+🔗 https://github.com/Blackdukee/E-learning-Admin
+
+### 3. Content Management APIs (Contributor)  
+Implemented endpoints for courses, sections, videos, and exams with role-based access control. Built on Express.js & MongoDB, featuring Cloudinary uploads.  
+🔗 https://github.com/roshdyosf/content-mangement-apis
+
+---
+
+## 🎓 Education & Certifications
+
+**DTU for Applied Technology** — Back-End Developer Capstone  
+**Certifications (June 2025)**  
+- Introduction to Back-End Development  
+- Introduction to Databases for Back-End Development  
+- API Design  
+
+---
+
+## 📝 Let’s Connect!
+Feel free to reach out if you'd like to collaborate on backend services, e-learning projects, or open source.  
+- 📧 fareselwasal@gmail.com  
+- 💬 [LinkedIn](https://www.linkedin.com/in/M.Abohatab)  
+
